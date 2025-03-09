@@ -1,18 +1,16 @@
 # Job Application Tracker
 
 ## What is it?
-Job Winner is a simple and efficient tool designed to help you track and manage job applications. It helps you stay organized and ensures you never miss important deadlines. Key features include:
+It is a simple and efficient tool designed to help job seekers track and manage job applications. It ensures you stay organized, keep up with deadlines, and never lose track of your progress in the job search process.
 
-- Manage job applications by status (viewed, under consideration, etc.)
-- Track application deadlines to stay on top of your job search
-- Update application statuses and manage application letters
-- Organize postings with custom columns and take notes
-- Automate folder creation for new applications
-
-## Preview
-- View job listings  
-- Update application statuses  
-- Manage deadlines  
+## Features
+Job Application List: View all applications, their status, and key details in one place.
+Add & Edit Applications: Easily add, update, or delete job applications.
+Interview Tracker: Keep track of interview schedules and details.
+Job Offer Management: Log and manage job offers, including salary and offer dates.
+Personal Profile Storage: Store frequently used details for quick access.
+Search & Filter: Find job applications quickly using keywords.
+Dashboard Overview: Get a summary of your job search progress at a glance 
 
 ## Tech Stack
 - **Backend:**
