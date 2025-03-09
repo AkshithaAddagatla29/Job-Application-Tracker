@@ -9,11 +9,6 @@ Job Winner is a simple and efficient tool designed to help you track and manage 
 - Organize postings with custom columns and take notes
 - Automate folder creation for new applications
 
-### What it doesn't do:
-- It won't download posting files or scrape data for you.
-- No filter options before reviewing postings (use spreadsheets to filter before importing).
-- Does not currently manage interview schedules.
-
 ## Preview
 - View job listings  
 - Update application statuses  
@@ -30,7 +25,6 @@ Job Winner is a simple and efficient tool designed to help you track and manage 
   - HTML
   - JavaScript
   - React
-  - Material-UI
 
 ## Installation
 
