@@ -1,4 +1,3 @@
-
 # Job Application Tracker
 
 ## What is it?
